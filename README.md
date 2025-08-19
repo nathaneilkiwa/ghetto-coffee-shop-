@@ -1,4 +1,5 @@
-# ☕ Ghetto Coffee Shop
+# ☕ Ghetto Coffee Shop<img width="1874" height="910" alt="Screenshot 2025-08-19 171319" src="https://github.com/user-attachments/assets/1962b04b-03d2-4630-9369-8f586c2a788c" />
+
 
 ![Project Preview](<img width="1874" height="910" alt="Screenshot 2025-08-19 171319" src="https://github.com/user-attachments/assets/93f78138-9a52-480c-bb46-ce0b51c61b92" />
 )
