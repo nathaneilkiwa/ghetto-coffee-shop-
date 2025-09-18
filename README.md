@@ -27,9 +27,7 @@ Built with **HTML, CSS, and JavaScript**, the site is fully responsive and desig
 
 ---
 
-## 🚀 Getting Started
 
-Clone the project and open it locally:
 
 ```bash
 # Clone the repo
